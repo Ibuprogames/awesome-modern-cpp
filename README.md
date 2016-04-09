@@ -9,6 +9,40 @@ and leverage modern C++11 and beyond.
 
 To add, remove or change things on the list: please submit a pull request.
 
+## Programming
+
+## Graphics
+
+## Design
+
+## Audio
+
+## Resources
+
+## Unity
+
+## Unreal
+
+## Postmortems
+
+## Web
+
+## Bureaucracy
+
+## Marketing
+
+## Commercial
+
+## Translation
+
+## Documentation
+
+## Hardware
+
+## Testing
+
+## Misc
+
 ## Books
 
 * [The C++ Programming Language](http://www.amazon.com/dp/0321958322) (Bjarne Stroustrup) [C++11]
